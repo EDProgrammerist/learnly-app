@@ -15,7 +15,7 @@ Get complete access to Learnly, an AI-powered learning platform that connects yo
 - 📜 TypeScript for static typing and enhanced development experience
 - 💅 TailwindCSS 4 for utility-first, responsive styling
 - ✅ Zod for schema validation and form handling
-- 🤖 OpenAI GPT-4o-mini for AI-powered matching and conversation summaries
+- 🤖 Gemini/OpenAI GPT-4o-mini for AI-powered matching and conversation summaries
 - ⚡ Hono for lightweight, fast API endpoints
 - 🔄 TanStack React Query for efficient server state management
 
