@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
 </p>
 
-![image]()
+![image](https://github.com/EDProgrammerist/learnly-app/blob/master/public/Preview.png?raw=true)
 
 Get complete access to Learnly, an AI-powered learning platform that connects you with the perfect learning partners based on your goals, interests, and learning style in one intelligent matching system.
 
