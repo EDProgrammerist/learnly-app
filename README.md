@@ -140,13 +140,6 @@ The AI matching system uses GPT-4o-mini or Gemini to analyze learning goals and 
 - Check API rate limits if getting 429 errors
 - Review console logs for detailed error messages
 
-### Build/Runtime Errors
-
-- Clear `.next` directory: `rm -rf .next`
-- Reinstall dependencies: `rm -rf node_modules && bun install`
-- Ensure you have Bun installed (this project uses Bun as the runtime)
-- Check environment variables are properly set in `.env.local`
-
 ## 🚀 Future Enhancements
 
 - [ ] Real-time messaging with WebSockets or Server-Sent Events
